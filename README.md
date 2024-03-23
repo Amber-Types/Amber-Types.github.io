@@ -1,1 +1,1 @@
-<link href="main.html" rel="index" />
+<p><a href="main.html">CLick here</a></p>
