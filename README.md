@@ -1,1 +1,1 @@
-<link href="main.html" rel="stylesheet" />
+<link href="main.html" rel="index" />
