@@ -1,0 +1,91 @@
+body {
+    background-image: url(https://i.pinimg.com/564x/58/33/12/5833122bf132c4eea213717ca92aa296.jpg);
+    padding: 20px;
+}
+h1, h2, h3, p {
+    text-align: center;
+}
+.item p {
+    display: inline-block;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.flavor {
+    font-family:"brush script MT", cursive;
+    font-size: 25px;
+    text-align: left;
+    width: 75%;
+}
+.price {
+    font-family:"brush script MT", cursive;
+    font-size: 20px;
+    text-align: right;
+    width: 25%;
+}
+.established {
+    margin-top: 0%;
+    font-style: italic;
+}
+.menu {
+    background-color: rgb(230, 183, 123);
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    max-width: 550px;
+}
+h1 { 
+    font-family: "Georgia", serif;
+    font-size: 55px;
+    margin-top: 10px;
+    margin-bottom: 0%;
+}
+h2 {
+    font-family: garamond, serif;
+    font-size: 35px;
+    margin-top: 20px;
+}
+h3 {
+    font-family: 'Gill Sans MT', sans-serif;
+    font-size: 25px;
+    margin-bottom: 5px;
+}
+hr {
+    height:2px;
+    border-color:sienna;
+    background-color: sienna;
+}
+::-webkit-scrollbar {
+    width: 15px
+}
+::-webkit-scrollbar-track {
+    box-shadow: inset 0 0 5px grey;
+    border-radius: 10px;
+}
+::-webkit-scrollbar-thumb {
+    background: rgb(119, 79, 30);
+    border-radius: 10px;
+}
+::-webkit-scrollbar-thumb:hover {
+    background:rgb(168, 121, 59)
+}
+.bottom-line {
+    height:2px;
+    border-color:sienna;
+    background-color: sienna;
+    margin-top: 20px
+}
+.quote {
+    text-align: center;
+    width: 550px;
+    font-family: cursive;
+    font-style: oblique;
+}
+.ending-quote {
+    text-align: center;
+    width: 550px;
+    font-family: cursive;
+    font-style: oblique;
+}
+.bla-bla {
+    margin-top: -15px;
+}
