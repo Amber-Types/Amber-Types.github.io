@@ -69,24 +69,27 @@ hr {
 ::-webkit-scrollbar-thumb:hover {
     background:rgb(168, 121, 59)
 }
-.bottom-line {
-    height:2px;
-    border-color:sienna;
-    background-color: sienna;
-    margin-top: 20px
-}
 .quote {
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 25px;
+    padding-right: 25px;
     text-align: center;
-    width: 350px;
+    width: 80%;
     font-family: cursive;
     font-style: oblique;
 }
 .ending-quote {
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 25px;
+    padding-right: 25px;
     text-align: center;
-    width: 350px;
+    width: 80%;
     font-family: cursive;
     font-style: oblique;
 }
 .bla-bla {
+    display: block;
     margin-top: -15px;
 }
